@@ -110,7 +110,10 @@ FFT analysis of the ADC voltage demonstrates the effectiveness of the filters in
 - **50 Hz Noise:** Clearly attenuated by the second filter (C4, R3).
 - Increasing the second filter's capacitance reduces the 50 Hz noise further. However, excessive capacitance can distort the signal.
 
+Fast Fourier Transform with the original filter:
 ![FFT ](Images/FFTbase.png "Bode Diagram of Amplifier Circuit")
+
+Fast Fourier Transform when increasing the capacitor too much:
 ![Bode Diagram](Images/FFTNUL.png "Bode Diagram of Amplifier Circuit")
 
 
