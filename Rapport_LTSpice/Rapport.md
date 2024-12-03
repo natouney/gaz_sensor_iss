@@ -75,7 +75,7 @@ Substituting into the formula, we get:
 $H = \frac{0.5}{50 \times 10^{-9}} = 10^7$
 
 On the other hand, we have 
-$140 \text{dB}=10^{\frac{140}{20}} = 10^7$
+$140 \text{dB}=10^{\frac{140}{20}} = 10^7$.
  
 The Bode diagram results are coherent with the input-output data and confirm the amplifier's performance.
 
@@ -89,9 +89,9 @@ Below are the cutoff frequencies for each filter. They have been measured in LTS
 
 | Filter | Cutoff Frequency |
 |--------|-------------------|
-| 1      | 15 Hz            |
-| 2      | 1.6 Hz           |
-| 3      | 1.55 kHz         |
+| 1      | $15$ Hz           |
+| 2      | $1.6$ Hz          |
+| 3      | $1.55$ kHz        |
 
 The filters have the following purposes:
 1. **First Filter (C1, R1, R5):** Filters out noise originating from the gas sensor itself.
