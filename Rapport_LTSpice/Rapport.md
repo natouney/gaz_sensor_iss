@@ -33,7 +33,7 @@ Below is the LTSpice circuit used to simulate the gas sensor:
 Below is the LTSpice transient simulation for the input and output:
 
 #### Input Transient Simulation:
-- Current changes from **50 nA to 100 nA** using a PULSE function.
+- Input : current changes from **50 nA to 100 nA** using a PULSE function.
 - Voltage change observed: **5 mV to 10 mV**, due to the **100 kΩ shunt resistance**.
 
 ![Transient Input](Images/tranENTREE.png "Transient Input")
